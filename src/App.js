@@ -6,22 +6,22 @@ import Footer from "./components/Footer";
 import ImageGrid from "./components/ImageGrid";
 
 const images = [
-  "/images/aladdin.jpeg",
-  "/images/alice.jpeg",
-  "/images/donald.png",
-  "/images/dory.jpeg",
-  "/images/dumbo.jpeg",
-  "/images/grumpy.jpeg",
-  "/images/anna.jpeg",
-  "/images/mickey.jpeg",
-  "/images/minnie.jpeg",
-  "/images/peter.jpeg",
-  "/images/stitch.jpeg",
-  "/images/winnie-the-pooh.jpeg",
-  "/images/marie.jpeg",
-  "/images/chip.jpeg",
-  "/images/jessie.jpeg",
-  "/images/jasmine.jpeg"
+  "./images/aladdin.jpeg",
+  "./images/alice.jpeg",
+  "./images/donald.png",
+  "./images/dory.jpeg",
+  "./images/dumbo.jpeg",
+  "./images/grumpy.jpeg",
+  "./images/anna.jpeg",
+  "./images/mickey.jpeg",
+  "./images/minnie.jpeg",
+  "./images/peter.jpeg",
+  "./images/stitch.jpeg",
+  "./images/winnie-the-pooh.jpeg",
+  "./images/marie.jpeg",
+  "./images/chip.jpeg",
+  "./images/jessie.jpeg",
+  "./images/jasmine.jpeg"
 ];
 
 class App extends Component {
