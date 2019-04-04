@@ -1,0 +1,28 @@
+.app {
+  text-align: center;
+}
+
+.app-title {
+  background-image: url("/background.jpg");
+  background-repeat: repeat;
+  color: #5133a4;
+  min-height: 400px;
+  padding: 180px 20px;
+  padding-bottom: 140px;
+  text-align: center;
+}
+
+.nav-bar {
+  background-color: #5133a4;
+  position: fixed;
+  width: 100%; 
+  color: #fff;
+  z-index: 1;
+}
+
+.nav-bar li {
+  display: inline-block;
+  padding: 26px 0;
+  width: 33.3%;
+  text-align: center;
+}
