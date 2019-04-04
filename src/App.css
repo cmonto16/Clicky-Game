@@ -3,7 +3,6 @@
 }
 
 .app-title {
-  background-image: url("/background.jpg");
   background-repeat: repeat;
   color: #5133a4;
   min-height: 400px;
